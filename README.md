@@ -13,7 +13,7 @@ A public, open-source platform for collaborative story writing
 9.	No new additions may be inconsistent with existing work. Modifications that would affect the existing story must be accompanied by self-consistent changes to the existing work.
 10.	No erotica, racism, or bigotry.
 11.	Read the story in its entirety before contributing for the first time.
-12. Upload files in .pdf format.
+12. Upload files in .docx format.
 # Premise:
 1.	Every contributing author is a member of a pantheon, manipulating characters and influencing events in subtle ways. They carry out an inscrutable game for hundreds of years, shaping the history of a world.
 2.	Authors are totally free to construct, or to not construct a character for their god, manifest through their actions within the story.
